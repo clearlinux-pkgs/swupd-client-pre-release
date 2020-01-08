@@ -4,7 +4,7 @@
 #
 Name     : swupd-client-pre-release
 Version  : 3f3ff08c8f86dbd50858d2d66fd5baa904fd5d47
-Release  : 4
+Release  : 5
 URL      : https://github.com/clearlinux/swupd-client/archive/3f3ff08c8f86dbd50858d2d66fd5baa904fd5d47.tar.gz
 Source0  : https://github.com/clearlinux/swupd-client/archive/3f3ff08c8f86dbd50858d2d66fd5baa904fd5d47.tar.gz
 Summary  : No detailed summary available
