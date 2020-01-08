@@ -1,0 +1,24 @@
+#
+# This file contains the output files that need %exclude.
+# Full path names, one per line.
+#
+/usr/bin/verifytime
+/usr/lib/systemd/system/check-update.service
+/usr/lib/systemd/system/check-update.timer
+/usr/lib/systemd/system/multi-user.target.wants/check-update.timer
+/usr/lib/systemd/system/multi-user.target.wants/swupd-update.timer
+/usr/lib/systemd/system/swupd-update.service
+/usr/lib/systemd/system/swupd-update.timer
+/usr/lib/systemd/system/verifytime.service
+/usr/share/defaults/etc/profile.d/50-swupd.bash
+/usr/share/defaults/swupd/config
+/usr/share/man/man1/swupd.1
+/usr/share/man/man4/check-update.service.4
+/usr/share/man/man4/check-update.timer.4
+/usr/share/man/man4/swupd-update.service.4
+/usr/share/man/man4/swupd-update.timer.4
+/usr/share/man/man4/update-triggers.target.4
+/usr/share/man/man7/swupd-alias.7
+/usr/share/polkit-1/actions/org.clearlinux.swupd.policy
+/usr/share/polkit-1/rules.d/org.clearlinux.swupd.rules
+/usr/share/zsh/site-functions/_swupd

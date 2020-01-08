@@ -1,0 +1,1 @@
+mv %{buildroot}/usr/bin/swupd %{buildroot}/usr/bin/swupd-pre-release
